@@ -7,7 +7,7 @@
 
 A modern, cross-platform mobile application for online grocery shopping, built with React Native, TypeScript, and Expo. This app provides users with a seamless shopping experience, allowing them to browse products, add items to cart, and complete purchases.
 
-## 🚀 Features
+##  Features
 
 - **Product Browsing**: Browse through a wide range of grocery items with beautiful product cards
 - **Shopping Cart**: Add/remove items and manage quantities in your cart
@@ -16,7 +16,7 @@ A modern, cross-platform mobile application for online grocery shopping, built w
 - **Modern UI/UX**: Built with a focus on user experience and accessibility
 - **Type Safety**: Full TypeScript support for better developer experience
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 - **Framework**: React Native 0.73.0
 - **Language**: TypeScript 4.9.5
@@ -28,14 +28,14 @@ A modern, cross-platform mobile application for online grocery shopping, built w
 - **API Client**: Axios
 - **Build Tool**: Expo 49.0.0
 
-## 📱 Screenshots
+##  Screenshots
 
 <!-- Add your app screenshots here -->
 | Home | Categories | Product Details | Cart |
 |------|------------|----------------|------|
 | ![Home](screenshots/home.png) | ![Categories](screenshots/categories.png) | ![Product](screenshots/product.png) | ![Cart](screenshots/cart.png) |
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 
@@ -73,7 +73,7 @@ A modern, cross-platform mobile application for online grocery shopping, built w
    npx expo start --android
    ```
 
-## 🏗 Project Structure
+##  Project Structure
 
 ```
 src/
@@ -92,7 +92,7 @@ src/
 └── utils/              # Utility functions and helpers
 ```
 
-## 🎨 Theming System
+##  Theming System
 
 The app uses a comprehensive theming system that supports:
 
@@ -102,7 +102,7 @@ The app uses a comprehensive theming system that supports:
 - Consistent spacing and sizing
 - Reusable component variants
 
-## 🔧 Development Process
+##  Development Process
 
 ### Component Architecture
 
@@ -124,13 +124,13 @@ We follow a modular component architecture with:
 - **ESLint & Prettier**: Consistent code style and formatting
 - **Husky & lint-staged**: Pre-commit hooks for code quality
 
-## 📝 Documentation
+##  Documentation
 
 - [Component Documentation](./docs/components.md)
 - [API Documentation](./docs/api.md)
 - [Theming Guide](./docs/theming.md)
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions are welcome! Please follow these steps:
 
@@ -140,19 +140,19 @@ Contributions are welcome! Please follow these steps:
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📄 License
+##  License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - [React Native](https://reactnative.dev/)
 - [Expo](https://expo.dev/)
 - [React Navigation](https://reactnavigation.org/)
 - [React Native Paper](https://reactnativepaper.com/)
 
-## 📬 Contact
+##  Contact
 
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter) - your.email@example.com
+Your Name - [@yourtwitter](https://x.com/AdroitIdan) 
 
-Project Link: [https://github.com/your-username/online-groceries-app](https://github.com/your-username/online-groceries-app)
+Project Link: [https://github.com/reuben-idan/Online-Groceries-App](https://github.com/reuben-idan/Online-Groceries-App)
